@@ -1,14 +1,6 @@
-wijsbegeerte
-============
+# Wijsbegeerte
 
-Hier is een samenvatting van wijsbegeerte in latex, opmerkingen of verbeteringen zijn steeds welkom.
+Hier is een samenvatting van [wijsbegeerte (B-KUL-G0Q80A)](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Q80AN.htm#activetab=doelstellingen_idp24934160) aan de KU Leuven:
 
-Voor het openen van het .tex bestand heb je een latex compiler nodig. Een goed programma hiervoor kan je vinden op:
-
-http://www.xm1math.net/texmaker/
-
-Gewoon installeren en dan kan je het .tex bestand openen met dit programma.
-Hierna kan je het bestand "builden" en uitvoeren naar pdf.
-Zie dat bij Options -> Configure Texmaker -> Quick Build de optie PdfLatex + View PDF staat aangevinkt.
-Klik daarna op de pijl voor Quick Build.
+[![PDF Status](https://www.sharelatex.com/github/repos/warreee/wijsbegeerte/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/warreee/wijsbegeerte/builds/latest/output.pdf)
 
