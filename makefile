@@ -1,4 +1,4 @@
-samenvatting.pdf: samenvatting.tex
+samenvatting.pdf: samenvatting.tex tekst/deel*.tex
 	pdflatex -halt-on-error --interaction nonstopmode samenvatting.tex
 
 clean:
